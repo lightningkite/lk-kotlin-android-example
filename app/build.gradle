@@ -42,7 +42,7 @@ repositories {
 dependencies {
 
     def kotlinVersion = '1.2.51'
-    def libraryKotlinVersion = '0.5.1'
+    def libraryKotlinVersion = '0.5.2'
     def ankoVersion = '0.10.4'
     def compatVersion = '27.1.1'
 
